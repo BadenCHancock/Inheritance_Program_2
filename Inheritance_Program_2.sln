@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Inheritance_Program_2", "Inheritance_Program_2\Inheritance_Program_2.vcxproj", "{389375A5-AE06-4BBC-8EF3-B08518768090}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Debug|x64 = Debug|x64
+		Release|Win32 = Release|Win32
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{389375A5-AE06-4BBC-8EF3-B08518768090}.Debug|Win32.ActiveCfg = Debug|Win32
+		{389375A5-AE06-4BBC-8EF3-B08518768090}.Debug|Win32.Build.0 = Debug|Win32
+		{389375A5-AE06-4BBC-8EF3-B08518768090}.Debug|x64.ActiveCfg = Debug|x64
+		{389375A5-AE06-4BBC-8EF3-B08518768090}.Debug|x64.Build.0 = Debug|x64
+		{389375A5-AE06-4BBC-8EF3-B08518768090}.Release|Win32.ActiveCfg = Release|Win32
+		{389375A5-AE06-4BBC-8EF3-B08518768090}.Release|Win32.Build.0 = Release|Win32
+		{389375A5-AE06-4BBC-8EF3-B08518768090}.Release|x64.ActiveCfg = Release|x64
+		{389375A5-AE06-4BBC-8EF3-B08518768090}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+EndGlobal
